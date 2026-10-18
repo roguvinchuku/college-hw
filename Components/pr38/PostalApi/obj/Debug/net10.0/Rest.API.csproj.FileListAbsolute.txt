@@ -1,0 +1,97 @@
+\\SRVAD\GlobalDOCS\ІТ-41,42\ІТ-41\Логвичнук Ілля\Rest.API\bin\Debug\net10.0\appsettings.Development.json
+\\SRVAD\GlobalDOCS\ІТ-41,42\ІТ-41\Логвичнук Ілля\Rest.API\bin\Debug\net10.0\appsettings.json
+\\SRVAD\GlobalDOCS\ІТ-41,42\ІТ-41\Логвичнук Ілля\Rest.API\bin\Debug\net10.0\Rest.API.staticwebassets.endpoints.json
+\\SRVAD\GlobalDOCS\ІТ-41,42\ІТ-41\Логвичнук Ілля\Rest.API\bin\Debug\net10.0\Rest.API.exe
+\\SRVAD\GlobalDOCS\ІТ-41,42\ІТ-41\Логвичнук Ілля\Rest.API\bin\Debug\net10.0\Rest.API.deps.json
+\\SRVAD\GlobalDOCS\ІТ-41,42\ІТ-41\Логвичнук Ілля\Rest.API\bin\Debug\net10.0\Rest.API.runtimeconfig.json
+\\SRVAD\GlobalDOCS\ІТ-41,42\ІТ-41\Логвичнук Ілля\Rest.API\bin\Debug\net10.0\Rest.API.dll
+\\SRVAD\GlobalDOCS\ІТ-41,42\ІТ-41\Логвичнук Ілля\Rest.API\bin\Debug\net10.0\Rest.API.pdb
+\\SRVAD\GlobalDOCS\ІТ-41,42\ІТ-41\Логвичнук Ілля\Rest.API\obj\Debug\net10.0\rpswa.dswa.cache.json
+\\SRVAD\GlobalDOCS\ІТ-41,42\ІТ-41\Логвичнук Ілля\Rest.API\obj\Debug\net10.0\Rest.API.GeneratedMSBuildEditorConfig.editorconfig
+\\SRVAD\GlobalDOCS\ІТ-41,42\ІТ-41\Логвичнук Ілля\Rest.API\obj\Debug\net10.0\Rest.API.AssemblyInfoInputs.cache
+\\SRVAD\GlobalDOCS\ІТ-41,42\ІТ-41\Логвичнук Ілля\Rest.API\obj\Debug\net10.0\Rest.API.AssemblyInfo.cs
+\\SRVAD\GlobalDOCS\ІТ-41,42\ІТ-41\Логвичнук Ілля\Rest.API\obj\Debug\net10.0\Rest.API.csproj.CoreCompileInputs.cache
+\\SRVAD\GlobalDOCS\ІТ-41,42\ІТ-41\Логвичнук Ілля\Rest.API\obj\Debug\net10.0\Rest.API.MvcApplicationPartsAssemblyInfo.cache
+\\SRVAD\GlobalDOCS\ІТ-41,42\ІТ-41\Логвичнук Ілля\Rest.API\obj\Debug\net10.0\rjimswa.dswa.cache.json
+\\SRVAD\GlobalDOCS\ІТ-41,42\ІТ-41\Логвичнук Ілля\Rest.API\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+\\SRVAD\GlobalDOCS\ІТ-41,42\ІТ-41\Логвичнук Ілля\Rest.API\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+\\SRVAD\GlobalDOCS\ІТ-41,42\ІТ-41\Логвичнук Ілля\Rest.API\obj\Debug\net10.0\scopedcss\bundle\Rest.API.styles.css
+\\SRVAD\GlobalDOCS\ІТ-41,42\ІТ-41\Логвичнук Ілля\Rest.API\obj\Debug\net10.0\staticwebassets.build.json
+\\SRVAD\GlobalDOCS\ІТ-41,42\ІТ-41\Логвичнук Ілля\Rest.API\obj\Debug\net10.0\staticwebassets.build.json.cache
+\\SRVAD\GlobalDOCS\ІТ-41,42\ІТ-41\Логвичнук Ілля\Rest.API\obj\Debug\net10.0\staticwebassets.development.json
+\\SRVAD\GlobalDOCS\ІТ-41,42\ІТ-41\Логвичнук Ілля\Rest.API\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+\\SRVAD\GlobalDOCS\ІТ-41,42\ІТ-41\Логвичнук Ілля\Rest.API\obj\Debug\net10.0\swae.build.ex.cache
+\\SRVAD\GlobalDOCS\ІТ-41,42\ІТ-41\Логвичнук Ілля\Rest.API\obj\Debug\net10.0\Rest.API.dll
+\\SRVAD\GlobalDOCS\ІТ-41,42\ІТ-41\Логвичнук Ілля\Rest.API\obj\Debug\net10.0\refint\Rest.API.dll
+\\SRVAD\GlobalDOCS\ІТ-41,42\ІТ-41\Логвичнук Ілля\Rest.API\obj\Debug\net10.0\Rest.API.pdb
+\\SRVAD\GlobalDOCS\ІТ-41,42\ІТ-41\Логвичнук Ілля\Rest.API\obj\Debug\net10.0\Rest.API.genruntimeconfig.cache
+\\SRVAD\GlobalDOCS\ІТ-41,42\ІТ-41\Логвичнук Ілля\Rest.API\obj\Debug\net10.0\ref\Rest.API.dll
+\\SRVAD\GlobalDOCS\ІТ-41,42\ІТ-41\Логвичнук Ілля\PostalApi\obj\Debug\net10.0\rpswa.dswa.cache.json
+\\SRVAD\GlobalDOCS\ІТ-41,42\ІТ-41\Логвичнук Ілля\PostalApi\obj\Debug\net10.0\Rest.API.GeneratedMSBuildEditorConfig.editorconfig
+\\SRVAD\GlobalDOCS\ІТ-41,42\ІТ-41\Логвичнук Ілля\PostalApi\obj\Debug\net10.0\Rest.API.AssemblyInfoInputs.cache
+\\SRVAD\GlobalDOCS\ІТ-41,42\ІТ-41\Логвичнук Ілля\PostalApi\obj\Debug\net10.0\Rest.API.AssemblyInfo.cs
+\\SRVAD\GlobalDOCS\ІТ-41,42\ІТ-41\Логвичнук Ілля\PostalApi\obj\Debug\net10.0\Rest.API.csproj.CoreCompileInputs.cache
+\\SRVAD\GlobalDOCS\ІТ-41,42\ІТ-41\Логвичнук Ілля\PostalApi\obj\Debug\net10.0\Rest.API.MvcApplicationPartsAssemblyInfo.cache
+\\SRVAD\GlobalDOCS\ІТ-41,42\ІТ-41\Логвичнук Ілля\PostalApi\obj\Debug\net10.0\Rest.API.dll
+\\SRVAD\GlobalDOCS\ІТ-41,42\ІТ-41\Логвичнук Ілля\PostalApi\obj\Debug\net10.0\refint\Rest.API.dll
+\\SRVAD\GlobalDOCS\ІТ-41,42\ІТ-41\Логвичнук Ілля\PostalApi\obj\Debug\net10.0\Rest.API.pdb
+\\SRVAD\GlobalDOCS\ІТ-41,42\ІТ-41\Логвичнук Ілля\PostalApi\bin\Debug\net10.0\appsettings.Development.json
+\\SRVAD\GlobalDOCS\ІТ-41,42\ІТ-41\Логвичнук Ілля\PostalApi\bin\Debug\net10.0\appsettings.json
+\\SRVAD\GlobalDOCS\ІТ-41,42\ІТ-41\Логвичнук Ілля\PostalApi\bin\Debug\net10.0\Rest.API.staticwebassets.endpoints.json
+\\SRVAD\GlobalDOCS\ІТ-41,42\ІТ-41\Логвичнук Ілля\PostalApi\bin\Debug\net10.0\Rest.API.exe
+\\SRVAD\GlobalDOCS\ІТ-41,42\ІТ-41\Логвичнук Ілля\PostalApi\bin\Debug\net10.0\Rest.API.deps.json
+\\SRVAD\GlobalDOCS\ІТ-41,42\ІТ-41\Логвичнук Ілля\PostalApi\bin\Debug\net10.0\Rest.API.runtimeconfig.json
+\\SRVAD\GlobalDOCS\ІТ-41,42\ІТ-41\Логвичнук Ілля\PostalApi\bin\Debug\net10.0\Rest.API.dll
+\\SRVAD\GlobalDOCS\ІТ-41,42\ІТ-41\Логвичнук Ілля\PostalApi\bin\Debug\net10.0\Rest.API.pdb
+\\SRVAD\GlobalDOCS\ІТ-41,42\ІТ-41\Логвичнук Ілля\PostalApi\obj\Debug\net10.0\rjimswa.dswa.cache.json
+\\SRVAD\GlobalDOCS\ІТ-41,42\ІТ-41\Логвичнук Ілля\PostalApi\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+\\SRVAD\GlobalDOCS\ІТ-41,42\ІТ-41\Логвичнук Ілля\PostalApi\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+\\SRVAD\GlobalDOCS\ІТ-41,42\ІТ-41\Логвичнук Ілля\PostalApi\obj\Debug\net10.0\scopedcss\bundle\Rest.API.styles.css
+\\SRVAD\GlobalDOCS\ІТ-41,42\ІТ-41\Логвичнук Ілля\PostalApi\obj\Debug\net10.0\staticwebassets.build.json
+\\SRVAD\GlobalDOCS\ІТ-41,42\ІТ-41\Логвичнук Ілля\PostalApi\obj\Debug\net10.0\staticwebassets.build.json.cache
+\\SRVAD\GlobalDOCS\ІТ-41,42\ІТ-41\Логвичнук Ілля\PostalApi\obj\Debug\net10.0\staticwebassets.development.json
+\\SRVAD\GlobalDOCS\ІТ-41,42\ІТ-41\Логвичнук Ілля\PostalApi\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+\\SRVAD\GlobalDOCS\ІТ-41,42\ІТ-41\Логвичнук Ілля\PostalApi\obj\Debug\net10.0\swae.build.ex.cache
+\\SRVAD\GlobalDOCS\ІТ-41,42\ІТ-41\Логвичнук Ілля\PostalApi\obj\Debug\net10.0\Rest.API.genruntimeconfig.cache
+\\SRVAD\GlobalDOCS\ІТ-41,42\ІТ-41\Логвичнук Ілля\PostalApi\obj\Debug\net10.0\ref\Rest.API.dll
+C:\Users\Student\Desktop\PostalApi\bin\Debug\net10.0\appsettings.Development.json
+C:\Users\Student\Desktop\PostalApi\bin\Debug\net10.0\appsettings.json
+C:\Users\Student\Desktop\PostalApi\bin\Debug\net10.0\Rest.API.staticwebassets.endpoints.json
+C:\Users\Student\Desktop\PostalApi\bin\Debug\net10.0\Rest.API.exe
+C:\Users\Student\Desktop\PostalApi\bin\Debug\net10.0\Rest.API.deps.json
+C:\Users\Student\Desktop\PostalApi\bin\Debug\net10.0\Rest.API.runtimeconfig.json
+C:\Users\Student\Desktop\PostalApi\bin\Debug\net10.0\Rest.API.dll
+C:\Users\Student\Desktop\PostalApi\bin\Debug\net10.0\Rest.API.pdb
+C:\Users\Student\Desktop\PostalApi\obj\Debug\net10.0\rpswa.dswa.cache.json
+C:\Users\Student\Desktop\PostalApi\obj\Debug\net10.0\Rest.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\Desktop\PostalApi\obj\Debug\net10.0\Rest.API.AssemblyInfoInputs.cache
+C:\Users\Student\Desktop\PostalApi\obj\Debug\net10.0\Rest.API.AssemblyInfo.cs
+C:\Users\Student\Desktop\PostalApi\obj\Debug\net10.0\Rest.API.csproj.CoreCompileInputs.cache
+C:\Users\Student\Desktop\PostalApi\obj\Debug\net10.0\Rest.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Student\Desktop\PostalApi\obj\Debug\net10.0\rjimswa.dswa.cache.json
+C:\Users\Student\Desktop\PostalApi\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+C:\Users\Student\Desktop\PostalApi\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+C:\Users\Student\Desktop\PostalApi\obj\Debug\net10.0\scopedcss\bundle\Rest.API.styles.css
+C:\Users\Student\Desktop\PostalApi\obj\Debug\net10.0\staticwebassets.build.json
+C:\Users\Student\Desktop\PostalApi\obj\Debug\net10.0\staticwebassets.build.json.cache
+C:\Users\Student\Desktop\PostalApi\obj\Debug\net10.0\staticwebassets.development.json
+C:\Users\Student\Desktop\PostalApi\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+C:\Users\Student\Desktop\PostalApi\obj\Debug\net10.0\swae.build.ex.cache
+C:\Users\Student\Desktop\PostalApi\obj\Debug\net10.0\Rest.API.dll
+C:\Users\Student\Desktop\PostalApi\obj\Debug\net10.0\refint\Rest.API.dll
+C:\Users\Student\Desktop\PostalApi\obj\Debug\net10.0\Rest.API.pdb
+C:\Users\Student\Desktop\PostalApi\obj\Debug\net10.0\Rest.API.genruntimeconfig.cache
+C:\Users\Student\Desktop\PostalApi\obj\Debug\net10.0\ref\Rest.API.dll
+C:\Users\Student\Desktop\PostalApi\artifacts\validation\appsettings.Development.json
+C:\Users\Student\Desktop\PostalApi\artifacts\validation\appsettings.json
+C:\Users\Student\Desktop\PostalApi\artifacts\validation\Rest.API.staticwebassets.endpoints.json
+C:\Users\Student\Desktop\PostalApi\artifacts\validation\Rest.API.exe
+C:\Users\Student\Desktop\PostalApi\artifacts\validation\Rest.API.deps.json
+C:\Users\Student\Desktop\PostalApi\artifacts\validation\Rest.API.runtimeconfig.json
+C:\Users\Student\Desktop\PostalApi\artifacts\validation\Rest.API.dll
+C:\Users\Student\Desktop\PostalApi\artifacts\validation\Rest.API.pdb
+C:\Users\Student\Desktop\PostalApi\bin\Debug\net10.0\artifacts\validation\appsettings.Development.json
+C:\Users\Student\Desktop\PostalApi\bin\Debug\net10.0\artifacts\validation\appsettings.json
+C:\Users\Student\Desktop\PostalApi\bin\Debug\net10.0\artifacts\validation\Rest.API.deps.json
+C:\Users\Student\Desktop\PostalApi\bin\Debug\net10.0\artifacts\validation\Rest.API.runtimeconfig.json
+C:\Users\Student\Desktop\PostalApi\bin\Debug\net10.0\artifacts\validation\Rest.API.staticwebassets.endpoints.json
