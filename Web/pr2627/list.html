@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="uk">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Список відправлень</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header><h1>Поштові відправлення</h1></header>
+    <main>
+        <h2>Список відправлень</h2>
+        <p><a href="index.html">Нове відправлення</a></p>
+        <p id="message" role="status"></p>
+        <table>
+            <thead>
+                <tr><th>Отримувач</th><th>Адреса</th><th>Вага, кг</th><th>Розміри, см</th><th>Дія</th></tr>
+            </thead>
+            <tbody id="parcels"></tbody>
+        </table>
+    </main>
+    <script src="list.js"></script>
+</body>
+</html>

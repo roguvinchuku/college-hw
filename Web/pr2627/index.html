@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="uk">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Редагування відправлення</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header><h1>Поштові відправлення</h1></header>
+    <main>
+        <h2>Редагування відправлення</h2>
+        <form id="parcel-form" novalidate>
+            <div class="field">
+                <label for="recipient">Отримувач</label>
+                <input id="recipient" name="recipient" type="text" required aria-describedby="recipient-error">
+                <span id="recipient-error" class="error"></span>
+            </div>
+            <div class="field">
+                <label for="address">Адреса доставки</label>
+                <input id="address" name="address" type="text" required aria-describedby="address-error">
+                <span id="address-error" class="error"></span>
+            </div>
+            <div class="field">
+                <label for="weight">Вага, кг</label>
+                <input id="weight" name="weight" type="number" step="any" required aria-describedby="weight-error">
+                <span id="weight-error" class="error"></span>
+            </div>
+            <div class="field">
+                <label for="length">Довжина, см</label>
+                <input id="length" name="length" type="number" step="any" required aria-describedby="length-error">
+                <span id="length-error" class="error"></span>
+            </div>
+            <div class="field">
+                <label for="width">Ширина, см</label>
+                <input id="width" name="width" type="number" step="any" required aria-describedby="width-error">
+                <span id="width-error" class="error"></span>
+            </div>
+            <div class="field">
+                <label for="height">Висота, см</label>
+                <input id="height" name="height" type="number" step="any" required aria-describedby="height-error">
+                <span id="height-error" class="error"></span>
+            </div>
+            <button id="save" type="submit">Зберегти</button>
+            <button id="cancel" type="button">Скасувати</button>
+        </form>
+        <p id="message" role="status"></p>
+    </main>
+    <script src="script.js"></script>
+</body>
+</html>

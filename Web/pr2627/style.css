@@ -1,0 +1,39 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+}
+
+.field {
+    margin-bottom: 12px;
+}
+
+label {
+    display: block;
+    margin-bottom: 4px;
+}
+
+input {
+    width: 260px;
+    max-width: 100%;
+    box-sizing: border-box;
+}
+
+.invalid {
+    outline: 1px solid red;
+}
+
+.error {
+    display: block;
+    color: red;
+    font-size: 14px;
+}
+
+table {
+    border-collapse: collapse;
+}
+
+th, td {
+    border: 1px solid black;
+    padding: 6px;
+    text-align: left;
+}

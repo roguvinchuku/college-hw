@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="uk">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>DOM</title>
+    <style>
+        #history {
+            border: 1px solid black;
+            padding: 10px 10px 10px 30px;
+        }
+    </style>
+</head>
+<body>
+    <input type="text" id="value1" aria-label="Перше число">
+    +
+    <input type="text" id="value2" aria-label="Друге число">
+    = <span id="result"></span>
+
+    <p><button id="calculate" onclick="calculate()">Порахувати</button></p>
+
+    <h2>Історія</h2>
+    <ul id="history"></ul>
+
+    <script src="script.js"></script>
+</body>
+</html>
