@@ -1,0 +1,14 @@
+C:\Users\ryo\Documents\Практичні\oop\Готові практичні\pr51\bin\Release\net10.0\SharedResources.exe
+C:\Users\ryo\Documents\Практичні\oop\Готові практичні\pr51\bin\Release\net10.0\SharedResources.deps.json
+C:\Users\ryo\Documents\Практичні\oop\Готові практичні\pr51\bin\Release\net10.0\SharedResources.runtimeconfig.json
+C:\Users\ryo\Documents\Практичні\oop\Готові практичні\pr51\bin\Release\net10.0\SharedResources.dll
+C:\Users\ryo\Documents\Практичні\oop\Готові практичні\pr51\bin\Release\net10.0\SharedResources.pdb
+C:\Users\ryo\Documents\Практичні\oop\Готові практичні\pr51\obj\Release\net10.0\SharedResources.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ryo\Documents\Практичні\oop\Готові практичні\pr51\obj\Release\net10.0\SharedResources.AssemblyInfoInputs.cache
+C:\Users\ryo\Documents\Практичні\oop\Готові практичні\pr51\obj\Release\net10.0\SharedResources.AssemblyInfo.cs
+C:\Users\ryo\Documents\Практичні\oop\Готові практичні\pr51\obj\Release\net10.0\SharedResources.csproj.CoreCompileInputs.cache
+C:\Users\ryo\Documents\Практичні\oop\Готові практичні\pr51\obj\Release\net10.0\SharedResources.dll
+C:\Users\ryo\Documents\Практичні\oop\Готові практичні\pr51\obj\Release\net10.0\refint\SharedResources.dll
+C:\Users\ryo\Documents\Практичні\oop\Готові практичні\pr51\obj\Release\net10.0\SharedResources.pdb
+C:\Users\ryo\Documents\Практичні\oop\Готові практичні\pr51\obj\Release\net10.0\SharedResources.genruntimeconfig.cache
+C:\Users\ryo\Documents\Практичні\oop\Готові практичні\pr51\obj\Release\net10.0\ref\SharedResources.dll

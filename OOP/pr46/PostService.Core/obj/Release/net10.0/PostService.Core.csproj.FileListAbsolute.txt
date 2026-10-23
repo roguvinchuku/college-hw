@@ -1,0 +1,11 @@
+C:\Users\ryo\Documents\Практичні\oop\Готові практичні\pr46\PostService.Core\bin\Release\net10.0\PostService.Core.deps.json
+C:\Users\ryo\Documents\Практичні\oop\Готові практичні\pr46\PostService.Core\bin\Release\net10.0\PostService.Core.dll
+C:\Users\ryo\Documents\Практичні\oop\Готові практичні\pr46\PostService.Core\bin\Release\net10.0\PostService.Core.pdb
+C:\Users\ryo\Documents\Практичні\oop\Готові практичні\pr46\PostService.Core\obj\Release\net10.0\PostService.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ryo\Documents\Практичні\oop\Готові практичні\pr46\PostService.Core\obj\Release\net10.0\PostService.Core.AssemblyInfoInputs.cache
+C:\Users\ryo\Documents\Практичні\oop\Готові практичні\pr46\PostService.Core\obj\Release\net10.0\PostService.Core.AssemblyInfo.cs
+C:\Users\ryo\Documents\Практичні\oop\Готові практичні\pr46\PostService.Core\obj\Release\net10.0\PostService.Core.csproj.CoreCompileInputs.cache
+C:\Users\ryo\Documents\Практичні\oop\Готові практичні\pr46\PostService.Core\obj\Release\net10.0\PostService.Core.dll
+C:\Users\ryo\Documents\Практичні\oop\Готові практичні\pr46\PostService.Core\obj\Release\net10.0\refint\PostService.Core.dll
+C:\Users\ryo\Documents\Практичні\oop\Готові практичні\pr46\PostService.Core\obj\Release\net10.0\PostService.Core.pdb
+C:\Users\ryo\Documents\Практичні\oop\Готові практичні\pr46\PostService.Core\obj\Release\net10.0\ref\PostService.Core.dll

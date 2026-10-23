@@ -1,0 +1,15 @@
+C:\Users\ryo\Documents\Практичні\oop\Готові практичні\pr33\bin\Debug\net10.0\GenericMethods.exe
+C:\Users\ryo\Documents\Практичні\oop\Готові практичні\pr33\bin\Debug\net10.0\GenericMethods.deps.json
+C:\Users\ryo\Documents\Практичні\oop\Готові практичні\pr33\bin\Debug\net10.0\GenericMethods.runtimeconfig.json
+C:\Users\ryo\Documents\Практичні\oop\Готові практичні\pr33\bin\Debug\net10.0\GenericMethods.dll
+C:\Users\ryo\Documents\Практичні\oop\Готові практичні\pr33\bin\Debug\net10.0\GenericMethods.pdb
+C:\Users\ryo\Documents\Практичні\oop\Готові практичні\pr33\obj\Debug\net10.0\GenericMethods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ryo\Documents\Практичні\oop\Готові практичні\pr33\obj\Debug\net10.0\GenericMethods.AssemblyInfoInputs.cache
+C:\Users\ryo\Documents\Практичні\oop\Готові практичні\pr33\obj\Debug\net10.0\GenericMethods.AssemblyInfo.cs
+C:\Users\ryo\Documents\Практичні\oop\Готові практичні\pr33\obj\Debug\net10.0\GenericMethods.csproj.CoreCompileInputs.cache
+C:\Users\ryo\Documents\Практичні\oop\Готові практичні\pr33\obj\Debug\net10.0\GenericMethods.dll
+C:\Users\ryo\Documents\Практичні\oop\Готові практичні\pr33\obj\Debug\net10.0\refint\GenericMethods.dll
+C:\Users\ryo\Documents\Практичні\oop\Готові практичні\pr33\obj\Debug\net10.0\GenericMethods.pdb
+C:\Users\ryo\Documents\Практичні\oop\Готові практичні\pr33\obj\Debug\net10.0\GenericMethods.genruntimeconfig.cache
+C:\Users\ryo\Documents\Практичні\oop\Готові практичні\pr33\obj\Debug\net10.0\ref\GenericMethods.dll
+C:\Users\ryo\Documents\Практичні\oop\Готові практичні\pr33\obj\Debug\net10.0\GenericM.70029CAC.Up2Date

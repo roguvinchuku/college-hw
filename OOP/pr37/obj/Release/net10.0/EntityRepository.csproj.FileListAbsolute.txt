@@ -1,0 +1,14 @@
+C:\Users\ryo\Documents\Практичні\oop\Готові практичні\pr37\bin\Release\net10.0\EntityRepository.exe
+C:\Users\ryo\Documents\Практичні\oop\Готові практичні\pr37\bin\Release\net10.0\EntityRepository.deps.json
+C:\Users\ryo\Documents\Практичні\oop\Готові практичні\pr37\bin\Release\net10.0\EntityRepository.runtimeconfig.json
+C:\Users\ryo\Documents\Практичні\oop\Готові практичні\pr37\bin\Release\net10.0\EntityRepository.dll
+C:\Users\ryo\Documents\Практичні\oop\Готові практичні\pr37\bin\Release\net10.0\EntityRepository.pdb
+C:\Users\ryo\Documents\Практичні\oop\Готові практичні\pr37\obj\Release\net10.0\EntityRepository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ryo\Documents\Практичні\oop\Готові практичні\pr37\obj\Release\net10.0\EntityRepository.AssemblyInfoInputs.cache
+C:\Users\ryo\Documents\Практичні\oop\Готові практичні\pr37\obj\Release\net10.0\EntityRepository.AssemblyInfo.cs
+C:\Users\ryo\Documents\Практичні\oop\Готові практичні\pr37\obj\Release\net10.0\EntityRepository.csproj.CoreCompileInputs.cache
+C:\Users\ryo\Documents\Практичні\oop\Готові практичні\pr37\obj\Release\net10.0\EntityRepository.dll
+C:\Users\ryo\Documents\Практичні\oop\Готові практичні\pr37\obj\Release\net10.0\refint\EntityRepository.dll
+C:\Users\ryo\Documents\Практичні\oop\Готові практичні\pr37\obj\Release\net10.0\EntityRepository.pdb
+C:\Users\ryo\Documents\Практичні\oop\Готові практичні\pr37\obj\Release\net10.0\EntityRepository.genruntimeconfig.cache
+C:\Users\ryo\Documents\Практичні\oop\Готові практичні\pr37\obj\Release\net10.0\ref\EntityRepository.dll

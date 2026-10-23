@@ -1,0 +1,15 @@
+C:\Users\ryo\Documents\Практичні\oop\Готові практичні\pr31-32\bin\Debug\net10.0-windows\DeliveryCalculator.exe
+C:\Users\ryo\Documents\Практичні\oop\Готові практичні\pr31-32\bin\Debug\net10.0-windows\DeliveryCalculator.deps.json
+C:\Users\ryo\Documents\Практичні\oop\Готові практичні\pr31-32\bin\Debug\net10.0-windows\DeliveryCalculator.runtimeconfig.json
+C:\Users\ryo\Documents\Практичні\oop\Готові практичні\pr31-32\bin\Debug\net10.0-windows\DeliveryCalculator.dll
+C:\Users\ryo\Documents\Практичні\oop\Готові практичні\pr31-32\bin\Debug\net10.0-windows\DeliveryCalculator.pdb
+C:\Users\ryo\Documents\Практичні\oop\Готові практичні\pr31-32\obj\Debug\net10.0-windows\DeliveryCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ryo\Documents\Практичні\oop\Готові практичні\pr31-32\obj\Debug\net10.0-windows\DeliveryCalculator.AssemblyInfoInputs.cache
+C:\Users\ryo\Documents\Практичні\oop\Готові практичні\pr31-32\obj\Debug\net10.0-windows\DeliveryCalculator.AssemblyInfo.cs
+C:\Users\ryo\Documents\Практичні\oop\Готові практичні\pr31-32\obj\Debug\net10.0-windows\DeliveryCalculator.csproj.CoreCompileInputs.cache
+C:\Users\ryo\Documents\Практичні\oop\Готові практичні\pr31-32\obj\Debug\net10.0-windows\DeliveryCalculator.dll
+C:\Users\ryo\Documents\Практичні\oop\Готові практичні\pr31-32\obj\Debug\net10.0-windows\refint\DeliveryCalculator.dll
+C:\Users\ryo\Documents\Практичні\oop\Готові практичні\pr31-32\obj\Debug\net10.0-windows\DeliveryCalculator.pdb
+C:\Users\ryo\Documents\Практичні\oop\Готові практичні\pr31-32\obj\Debug\net10.0-windows\DeliveryCalculator.genruntimeconfig.cache
+C:\Users\ryo\Documents\Практичні\oop\Готові практичні\pr31-32\obj\Debug\net10.0-windows\ref\DeliveryCalculator.dll
+C:\Users\ryo\Documents\Практичні\oop\Готові практичні\pr31-32\obj\Debug\net10.0-windows\Delivery.C3E6371D.Up2Date
