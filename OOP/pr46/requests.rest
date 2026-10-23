@@ -1,0 +1,40 @@
+@baseUrl = http://localhost:5211
+
+### Список — 200
+GET {{baseUrl}}/postings
+
+### Запис відсутній — 404
+GET {{baseUrl}}/postings/999999
+
+### Некоректні дані — 400 та errors
+POST {{baseUrl}}/postings
+Content-Type: application/json
+
+{"from":"","to":"","weight":0}
+
+### Створення — 201
+POST {{baseUrl}}/postings
+Content-Type: application/json
+
+{"from":"Київ","to":"Львів","weight":2.5}
+
+### Редагування відсутнього запису — 404
+PUT {{baseUrl}}/postings/999999
+Content-Type: application/json
+
+{"from":"Київ","to":"Львів","weight":2.5}
+
+### Видалення відсутнього запису — 404
+DELETE {{baseUrl}}/postings/999999
+
+### Увімкнути навчальний виняток — 204
+POST {{baseUrl}}/demo/failure/true
+
+### Помилка ендпойнта — 500
+GET {{baseUrl}}/postings
+
+### Вимкнути навчальний виняток — 204
+POST {{baseUrl}}/demo/failure/false
+
+### Після зупинки сервера повторити GET: HTTP-відповіді немає, помилка з'єднання
+GET {{baseUrl}}/postings

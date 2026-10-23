@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "PostService — server and client",
+    "Projects": [
+      {
+        "Path": "PostService.Server\\PostService.Server.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "PostService.WindowsApp\\PostService.WindowsApp.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]
